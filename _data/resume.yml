@@ -45,7 +45,7 @@ work:
   endDate: '2015-20-04­­'
   summary:
   highlights:
-  - 'Built an educational platform with a Ruby On Rails backend/API and Angularjs'
+  - 'Built an educational platform with a Ruby On Rails backend/API and an Angularjs front-end'
   - 'Designed JSON API for the web and mobile platforms'
 - company: TKML Technologies
   position: Software Developer
@@ -54,8 +54,8 @@ work:
   endDate: '2014-17-02'
   summary: ''
   highlights:
-  - 'Build platform is currently powering over 40 store­fronts for very well recognized brands such as Pepsi, Burger King, WGN, Taco Bell'
-  - 'Developed and contributed to an open­source fedex integration gem for shipping support'
+  - 'Built  features for a platform that is currently powering over 40 store­fronts for well recognized brands such as Pepsi, Burger King, WGN and Taco Bell'
+  - 'Developed and contributed to an open­source fedex integration gem for shipping fulfillment support'
 education:
   - institution: "Providence College"
     area: "Political Science | Minor in Music"
