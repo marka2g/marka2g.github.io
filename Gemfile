@@ -29,6 +29,9 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
   # gem "jekyll-titles-from-headings"
+
+  # gem "jekyll-pdf" #RROR:  While executing gem ... (Gem::RemoteFetcher::FetchError)
+    # bad response Forbidden 403 (https://api.rubygems.org/quick/Marshal.4.8/digest-0.0.1.gemspec.rz)
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
