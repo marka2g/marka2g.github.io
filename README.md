@@ -19,6 +19,7 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 
 
 ## ToDo
+### resume
 - [ ] add download link
 - [ ] fix hamburger js
 - [ ] fix dates
@@ -35,3 +36,6 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 - [ ] add internships - global auth/h.o.r
 - [ ] incorporate notes into res site
 - [ ] clean up awesome links
+
+### notes
+- [jekyll cheat - very cool layout](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
