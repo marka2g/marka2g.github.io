@@ -1,1 +1,0 @@
-# Mark Sadegi | Resumé Repo

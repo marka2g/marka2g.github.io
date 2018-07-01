@@ -2,7 +2,6 @@
 _gh_pages
 _site*
 .ruby-version
-HYDEJACK_README.md
 
 # Numerous always-ignore extensions
 *.diff
