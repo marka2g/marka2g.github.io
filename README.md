@@ -20,6 +20,7 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 
 ## ToDo
 - [ ] fix hamburger js
+- [ ] fix dates
 - [ ] improve content
 - [ ] add icons for skills/ awards
 - [ ] add stacks ascii. API: ruby postgresql ➜ rails ➜ IOS ReactNative
