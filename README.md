@@ -29,6 +29,7 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
   - [svgs](https://github.com/LaurentTreguier/vscode-simple-icons/blob/master/ICONS.md)
   - [emojis](https://github.com/wpeterson/emoji/tree/master/assets/images)
   - [emojis wiki](https://en.wikipedia.org/wiki/Emoji)
+  - [json to yaml](https://www.json2yaml.com)
 - [ ] add stacks ascii. API: ruby postgresql ➜ rails ➜ IOS ReactNative
 - [ ] add internships - global auth/h.o.r
 - [ ] incorporate notes into res site
