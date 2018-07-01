@@ -23,7 +23,12 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 - [ ] fix hamburger js
 - [ ] fix dates
 - [ ] improve content
+  - [jsonresume editor](http://registry.jsonresume.org)
+  - [linkedin jsonresume export](https://jmperezperez.com/linkedin-to-json-resume/)
 - [ ] add icons for skills/ awards
+  - [svgs](https://github.com/LaurentTreguier/vscode-simple-icons/blob/master/ICONS.md)
+  - [emojis](https://github.com/wpeterson/emoji/tree/master/assets/images)
+  - [emojis wiki](https://en.wikipedia.org/wiki/Emoji)
 - [ ] add stacks ascii. API: ruby postgresql ➜ rails ➜ IOS ReactNative
 - [ ] add internships - global auth/h.o.r
 - [ ] incorporate notes into res site
