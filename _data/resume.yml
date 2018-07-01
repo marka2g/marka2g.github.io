@@ -31,7 +31,7 @@ work:
     - 'Build parental control software with a Ruby On Rails backend/API and IOS & ReactNative clients'
 - company: Hallmark | Spiritclips | Ink and Main
   position: Sr. Software Engineer
-  website: www.hallmark.com/
+  website: http://hallmark.com/
   startDate: '2015-14-04'
   endDate: '2015-29­-08­'
   summary: ''
@@ -40,7 +40,7 @@ work:
   - 'Developed API endpoints for Hallmark Contacts and Life services'
 - company: African Managers Initiative
   position: Lead Developer
-  website: www.africanmanagers.org
+  website: http://africanmanagers.org
   startDate: '2013-12-01'
   endDate: '2015-20-04­­'
   summary:
@@ -49,22 +49,19 @@ work:
   - 'Designed JSON API for the web and mobile platforms'
 - company: TKML Technologies
   position: Software Developer
-  website: www.tkml.com
+  website: http://tukaiz.com
   startDate: '2011-12-04'
   endDate: '2014-17-02'
   summary: ''
   highlights:
   - 'Build platform is currently powering over 40 store­fronts for very well recognized brands such as Pepsi, Burger King, WGN, Taco Bell'
-  - 'Develop and contributed to an open­source fedex integration gem for shipping support'
-- company: Forcefield Inc.
-  position: Sr. Software Engineer
-  website: https://forcefield.me
-  startDate: '2013-12-01'
-  endDate: '2014-12-01'
-  summary: ''
-  highlights:
-  - ''
-education: []
+  - 'Developed and contributed to an open­source fedex integration gem for shipping support'
+education:
+  - institution: "Providence College"
+    area: "Political Science | Minor in Music"
+    studyType: "Bachelor"
+    startDate: "1994-01-05"
+    endDate: "1998-01-05"
 awards:
 - title: Eagle Scout
   date: ''
@@ -87,4 +84,6 @@ interests:
   keywords: []
 references:
 - name: Available upon request.
-  reference: ''
+  # reference: ''
+# Internship
+# U.S. House of Representatives – Rayburn House 1995 Office Building Website • Interned for Congressman Harris Fawell
