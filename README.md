@@ -19,6 +19,7 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 
 
 ## ToDo
+- [ ] add download link
 - [ ] fix hamburger js
 - [ ] fix dates
 - [ ] improve content
