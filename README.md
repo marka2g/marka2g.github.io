@@ -21,4 +21,4 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 ## ToDo
 - [ ] improve content
 - [ ] add icons for skills
-- [ ] add stacks. API: ruby postgresql ➡️ rails ➡️ IOS ReactNative
+- [ ] add stacks. API: ruby postgresql ➜ rails ➜ IOS ReactNative
