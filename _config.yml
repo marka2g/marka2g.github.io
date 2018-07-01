@@ -32,8 +32,10 @@ description:           >
 # A shorter description for the sidebar.
 # tagline:               >
   # Replacing penmanship for super-human copy & paste skills since 2008.
+# tagline:               >
+#   Swapping penmanship for super-human text-wrangling skills since 2008.
 tagline:               >
-  Swapping penmanship for super-human text-wrangling skills since 2008.
+  Swapping penmanship with super-human text-wrangling skills since 2008.
 
 # A list of keywords for your blog
 keywords:              [ruby rails elixir phoenix reactjs reactnative]
