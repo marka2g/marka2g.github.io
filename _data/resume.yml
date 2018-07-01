@@ -65,7 +65,7 @@ education:
 awards:
 - title: Eagle Scout
   date: ''
-  awarder: Boy Scouts Of America
+  awarder: the Boy Scouts Of America
   summary: ''
 skills:
 - name: Full-stack Development
@@ -76,7 +76,7 @@ skills:
   - Ruby On Rails
   - Reactjs
   - Elixir
-  - Phoenix
+  - Phoenix Framework
   - Erlang OTP
   - React Native
 interests:
