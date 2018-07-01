@@ -26,7 +26,9 @@ layout: compress
 {% assign plugins = site.plugins | default:site.gems %}
 
 {% if plugins contains 'jekyll-seo-tag' %}
-  {% assign color = site.accent_color | default:'#4fb1ba' %}
+  <!-- {% assign color = site.accent_color | default:'#4fb1ba' %} -->
+  <!-- {% assign color = site.accent_color | default:'#4e2a8e' %} -->
+  {% assign color = site.accent_color | default:'#743fd4' %}
   {% assign image = site.accent_image | default:'/assets/img/sidebar-bg.jpg' %}
 
   {% if page.categories.size > 0 %}

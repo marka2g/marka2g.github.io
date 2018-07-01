@@ -67,8 +67,8 @@ copyright:
 permalink:             pretty
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /blog/page-:num/
+# paginate:              5
+# paginate_path:         /blog/page-:num/
 
 
 # Customizaton
@@ -78,7 +78,8 @@ paginate_path:         /blog/page-:num/
 # accent_image:          /assets/img/sidebar-bg.jpg
 # accent_color:          '#4fb1ba'
 accent_image:
-  background:          '#4e2a8e'
+  # background:          '#4e2a8e'
+  background:          '#743fd4'
   overlay:              false
 
 # The string encoding which fonts to fetch from Google Fonts.

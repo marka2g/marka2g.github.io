@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Mark Sadegi",
+    "label": "Programmer",
+    "picture": "",
+    "email": "mark.sadegi@gmail.com",
+    "phone": "",
+    "website": "https://marksadegi.com",
+    "summary": "",
+    "location": {
+      "address": "404 Shatto Pl. #556",
+      "postalCode": "CA 90020",
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "marka2g",
+        "url": "https://github.com/marka2g"
+      },
+      {
+        "network": "Twitter",
+        "username": "m_sdg",
+        "url": "https://twitter.com/m_sdg"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Forcefield Inc.",
+      "position": "Sr. Software Engineer",
+      "website": "https://forcefield.me",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "",
+      "awarder": "Boy Scouts Of America",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Full-stack Development",
+      "level": "Crudstud",
+      "keywords": [
+        "Ruby",
+        "Ruby On Rails",
+        "Reactjs",
+        "Elixir",
+        "Phoenix",
+        "Erlang OTP",
+        "React Native"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar, Music & Music Production",
+      "keywords": [
+        "guitar"
+      ]
+    },
+    {
+      "name": "Hiking & Camping",
+      "keywords": []
+    },
+    {
+      "name": "Poker",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request.",
+      "reference": ""
+    }
+  ]
+}
