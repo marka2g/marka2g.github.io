@@ -23,3 +23,5 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 - [ ] add icons for skills/ awards
 - [ ] add stacks ascii. API: ruby postgresql ➜ rails ➜ IOS ReactNative
 - [ ] add internships - global auth/h.o.r
+- [ ] incorporate notes into res site
+- [ ] clean up awesome links
