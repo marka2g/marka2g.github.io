@@ -20,6 +20,6 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 
 ## ToDo
 - [ ] improve content
-- [ ] add icons for skills
-- [ ] add stacks. API: ruby postgresql ➜ rails ➜ IOS ReactNative
-- [ ] add internships
+- [ ] add icons for skills/ awards
+- [ ] add stacks ascii. API: ruby postgresql ➜ rails ➜ IOS ReactNative
+- [ ] add internships - global auth/h.o.r
