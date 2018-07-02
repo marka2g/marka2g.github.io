@@ -2,7 +2,7 @@
 layout: resume
 title: Résumé
 description: >
-  Mark Sadegi | Full-stack Developer
+  Mark Sadegi | Full-Stack Developer
 hide_description: false
 menu: true
 order: 3
