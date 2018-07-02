@@ -114,6 +114,8 @@ resume:
   skills:              Skills
   level:               Level
   interests:           Interests
+  internships:         Internships
+  internships_title:   <!--position--> at <!--organization-->
   keywords:            Keywords
   icons:
     fallback:          icon-link
@@ -130,3 +132,4 @@ resume:
     languages:         icon-bubbles
     skills:            icon-wrench
     interests:         icon-heart
+    internships:       icon-star-full

@@ -14,53 +14,53 @@ basics:
     countryCode: US
     region: California
   profiles:
-  - network: Github
-    username: marka2g
-    url: https://github.com/marka2g
-  - network: Twitter
-    username: m_sdg
-    url: https://twitter.com/m_sdg
-  - network: LinkedIn
-    username: marksadegi
-    url: https://www.linkedin.com/in/marksadegi/
-  - network: Download
-    url: http://www.marksadegi.com/MarkSadegi%7CRésumé.pdf
+    - network: Github
+      username: marka2g
+      url: https://github.com/marka2g
+    - network: Twitter
+      username: m_sdg
+      url: https://twitter.com/m_sdg
+    - network: LinkedIn
+      username: marksadegi
+      url: https://www.linkedin.com/in/marksadegi/
+    - network: Download
+      url: http://www.marksadegi.com/MarkSadegi%7CRésumé.pdf
 work:
-- company: Forcefield Inc.
-  position: Sr. Software Engineer
-  website: https://forcefield.me
-  startDate: '2014-09-01'
-  endDate: ''
-  summary: ''
-  highlights:
-    - 'Build parental control software with a Ruby On Rails backend/API and IOS & ReactNative clients'
-- company: Hallmark | Spiritclips | Ink and Main
-  position: Sr. Software Engineer
-  website: http://hallmark.com/
-  startDate: '2015-14-04'
-  endDate: '2015-29­-08­'
-  summary: ''
-  highlights:
-  - 'Developed features for Hallmarks new Print on Demand product'
-  - 'Developed API endpoints for Hallmark Contacts and Life services'
-- company: African Managers Initiative
-  position: Lead Developer
-  website: http://africanmanagers.org
-  startDate: '2014-12-01'
-  endDate: '2015-20-04­­'
-  summary:
-  highlights:
-  - 'Built an educational platform with a Ruby On Rails backend/API and an Angularjs front-end'
-  - 'Designed JSON API for the web and mobile platforms'
-- company: TKML Technologies
-  position: Software Developer
-  website: http://tukaiz.com
-  startDate: '2011-12-04'
-  endDate: '2014-17-02'
-  summary: ''
-  highlights:
-  - 'Built  features for a platform that is currently powering over 40 store­fronts for well recognized brands such as Pepsi, Burger King, WGN and Taco Bell'
-  - 'Developed and contributed to an open­source fedex integration gem for shipping fulfillment support'
+  - company: Forcefield Inc.
+    position: Sr. Software Engineer
+    website: https://forcefield.me
+    startDate: '2014-09-01'
+    endDate: ''
+    summary: ''
+    highlights:
+      - 'Build parental control software with a Ruby On Rails backend/API and IOS & ReactNative clients'
+  - company: Hallmark | Spiritclips | Ink and Main
+    position: Sr. Software Engineer
+    website: http://hallmark.com/
+    startDate: '2015-14-04'
+    endDate: '2015-29­-08­'
+    summary: ''
+    highlights:
+    - 'Developed features for Hallmarks new Print on Demand product'
+    - 'Developed API endpoints for Hallmark Contacts and Life services'
+  - company: African Managers Initiative
+    position: Lead Developer
+    website: http://africanmanagers.org
+    startDate: '2014-12-01'
+    endDate: '2015-20-04­­'
+    summary:
+    highlights:
+    - 'Built an educational platform with a Ruby On Rails backend/API and an Angularjs front-end'
+    - 'Designed JSON API for the web and mobile platforms'
+  - company: TKML Technologies
+    position: Software Developer
+    website: http://tukaiz.com
+    startDate: '2011-12-04'
+    endDate: '2014-17-02'
+    summary: ''
+    highlights:
+    - 'Built  features for a platform that is currently powering over 40 store­fronts for well recognized brands such as Pepsi, Burger King, WGN and Taco Bell'
+    - 'Developed and contributed to an open­source fedex integration gem for shipping fulfillment support'
 education:
   - institution: "Providence College"
     area: "Political Science | Minor in Music"
@@ -68,27 +68,44 @@ education:
     startDate: "1994-06-05"
     endDate: "1998-05-03"
 awards:
-- title: Eagle Scout
-  date: ''
-  awarder: the Boy Scouts Of America
-  summary: ''
+  - title: Eagle Scout
+    date: ''
+    awarder: the Boy Scouts Of America
+    summary: ''
 skills:
-- name: Full-Stack Development
-  # level: Journeyman
-  keywords:
-  - API Developement
-  - Ruby
-  - Ruby On Rails
-  - Reactjs
-  - Elixir
-  - Phoenix Framework
-  - Erlang OTP
-  - React Native
+  - name: Full-Stack Development
+    # level: Journeyman
+    keywords:
+      - API Developement
+      - Ruby
+      - Ruby On Rails
+      - Reactjs
+      - Elixir
+      - Phoenix Framework
+      - Erlang OTP
+      - React Native
+      - Postgresql
+      - Redis
+internships:
+  - organization: U.S. House of Representatives – Rayburn House Office Building
+    position: "Intern"
+    startDate: "1995-05-14"
+    endDate: "1995-08-14"
+    website: "https://www.house.gov"
+# volunteer:
+#   - organization: "CoderDojo"
+#     position: "Teacher"
+#     website: "https://coderdojo.com/"
+#     startDate: "2012-01-01"
+#     endDate: "2013-01-01"
+#     summary: "Global movement of free coding clubs for young people."
+#     highlights:
+#       - "Awarded 'Teacher of the Month'"
 interests:
-- name: Guitar, Music Production, Programming Languages, Hiking, Camping, Long-distance Running & Poker. In that order 🤓
-  keywords: []
+  - name: Guitar, Music Production, Programming Languages, Hiking, Camping, Long-distance Running & Poker. In that order 🤓
+    keywords: []
 references:
-- name: Available upon request.
+  - name: Available upon request.
   # reference: ''
 # Internship
 # U.S. House of Representatives – Rayburn House 1995 Office Building Website • Interned for Congressman Harris Fawell

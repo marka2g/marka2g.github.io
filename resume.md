@@ -13,5 +13,6 @@ right_column:
  - education
  - awards
  - interests
+ - internships
  - references
 ---

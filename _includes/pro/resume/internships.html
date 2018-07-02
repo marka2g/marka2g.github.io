@@ -1,0 +1,30 @@
+{% if resume.internships.size > 0 %}
+<section>
+  <div class="npb">
+  <h2 id="internships" class="h3 faded hr">
+    {{ strings.resume.internships | default:"Volunteer" }}
+    <span class="symbol {{ icons.internships | default:'icon-earth' }}"></span>
+  </h2>
+  {% for internship in resume.internships %}
+  <section class="no-page-break">
+    <header class="{% unless forloop.first %}mt4{% endunless %}">
+      {% if internship.startDate.size > 0 %}
+        <p class="faded">
+          <time datetime="{{ internship.startDate }}">{{ internship.startDate | date:from_to_format }}</time>
+        </p>
+      {% endif %}
+      <h3 class="h4 faded">
+        {% capture position %}<span class="bc">{{ internship.position }}</span>{% endcapture %}
+        {% capture organization %}{% include link.html title=internship.organization href=internship.website span_class="bc" %}{% endcapture %}
+        {{ strings.resume.internships_title
+          | default:"<!--position--> at <!--organization-->"
+          | replace:"<!--position-->", position
+          | replace:"<!--organization-->", organization
+        }}
+      </h3>
+    </header>
+  </section>
+  {% if forloop.first %}</div>{% endif %}
+  {% endfor %}
+</section>
+{% endif %}
