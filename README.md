@@ -40,3 +40,4 @@ _|  _| \__,_| _|  _\_\   ____/ \__,_| \__,_| \___| \__, | _|
 ### notes
 - [jekyll cheat - very cool layout](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
   - [cheat sheet gist](https://gist.github.com/DrOctogon/bfb6e392aa5654c63d12)
+- [bootstrap jekyll](https://mistic100.github.io/jekyll-bootstrap-doc/index.html)
