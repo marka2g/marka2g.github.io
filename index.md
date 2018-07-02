@@ -1,4 +1,4 @@
 ---
 layout: resume
-title: Mark Sadegi | Résumé
+title: Mark Sadegi
 ---
