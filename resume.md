@@ -8,11 +8,11 @@ menu: true
 order: 3
 left_column:
  - work
+ - internships
 right_column:
  - skills
  - education
  - awards
  - interests
- - internships
  - references
 ---
