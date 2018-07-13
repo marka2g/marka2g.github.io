@@ -102,6 +102,7 @@ resume:
   volunteer:           Volunteer
   volunteer_title:     <!--position--> at <!--organization-->
   education:           Education
+  training:            Additional Training
   education_title:     <!--study_type--> in <!--area--> from <!--institution-->
   courses:             Courses
   awards:              Awards
@@ -126,6 +127,7 @@ resume:
     work:              icon-briefcase
     volunteer:         icon-earth
     education:         icon-library
+    training:          icon-cog
     awards:            icon-trophy
     publications:      icon-book
     references:        icon-quotes-right

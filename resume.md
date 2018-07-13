@@ -11,6 +11,7 @@ left_column:
  - internships
 right_column:
  - skills
+ - training
  - education
  - awards
  - interests

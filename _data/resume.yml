@@ -33,6 +33,7 @@ work:
     endDate: ''
     summary: ''
     highlights:
+      - 'Lead the API team of developers.'
       - 'Build parental control software with a Ruby On Rails backend/API and IOS & ReactNative clients'
   - company: Hallmark | Spiritclips | Ink and Main
     position: Sr. Software Engineer
@@ -41,8 +42,8 @@ work:
     endDate: '2015-29­-08­'
     summary: ''
     highlights:
-    - 'Developed features for Hallmarks new Print on Demand product'
-    - 'Developed API endpoints for Hallmark Contacts and Life services'
+      - 'Developed features for Hallmarks new Print on Demand product'
+      - 'Developed API endpoints for Hallmark Contacts and Life services'
   - company: African Managers Initiative
     position: Lead Developer
     website: http://africanmanagers.org
@@ -50,8 +51,9 @@ work:
     endDate: '2015-20-04­­'
     summary:
     highlights:
-    - 'Built an educational platform with a Ruby On Rails backend/API and an Angularjs front-end'
-    - 'Designed JSON API for the web and mobile platforms'
+      - 'Lead the API team of developers.'
+      - 'Built an educational platform with a Ruby On Rails backend/API and an Angularjs front-end'
+      - 'Designed JSON API for the web and mobile platforms'
   - company: TKML Technologies
     position: Software Developer
     website: http://tukaiz.com
@@ -59,14 +61,18 @@ work:
     endDate: '2014-17-02'
     summary: ''
     highlights:
-    - 'Built  features for a platform that is currently powering over 40 store­fronts for well recognized brands such as Pepsi, Burger King, WGN and Taco Bell'
-    - 'Developed and contributed to an open­source fedex integration gem for shipping fulfillment support'
+      - 'Built  features for a platform that is currently powering over 40 store­fronts for well recognized brands such as Pepsi, Burger King, WGN and Taco Bell'
+      - 'Developed and contributed to an open­source fedex integration gem for shipping fulfillment support'
 education:
   - institution: "Providence College"
     area: "Political Science | Minor in Music"
     studyType: "Bachelor"
     startDate: "1994-06-05"
     endDate: "1998-05-03"
+training:
+  - name: "Ruby on Rails Pragmatic Studio with Dave Thomas and Chad Fowler | August 2009 in Denver, CO"
+    website: "https://pragmaticstudio.com/alumni/mark-sadegi-d3a0"
+  - name: "SCJA - Sun Certified Java Associate 2006"
 awards:
   - title: Eagle Scout
     date: ''

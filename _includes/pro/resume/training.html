@@ -1,0 +1,25 @@
+{% if resume.training.size > 0 %}
+  <section>
+    <div class="npb">
+      <h2 id="training" class="h3 faded hr">
+        {{ strings.resume.training | default:"Additional Training" }}
+        <span class="symbol {{ icons.training | default:'icon-library' }}"></span>
+      </h2>
+    </div>
+  </section>
+    <header>
+      <ul>
+        {% for training in resume.training %}
+          <li>
+            {% if training.website.size > 0 %}
+              <p>
+                {% include link.html title=training.name href=training.website class=company_class span_class="bc" property="sameAs" %}
+              </p>
+            {% else %}
+              <p>{{ training.name }}</p>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </header>
+{% endif %}
