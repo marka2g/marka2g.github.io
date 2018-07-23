@@ -96,8 +96,8 @@ skills:
 internships:
   - organization: CRC - Chicago Recording Company
     position: "Intern - 2nd Engineer"
-    startDate: "1999"
-    endDate: "1999"
+    startDate: "1999-06-25"
+    endDate: "1999-08-25"
     website: "http://www.chicagorecording.com/"
   - organization: U.S. House of Representatives – Rayburn House Office Building
     position: "Intern"
