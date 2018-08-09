@@ -25,12 +25,15 @@ basics:
       url: https://www.linkedin.com/in/marksadegi/
     - network: Download
       username: Download Pdf
-      url: http://www.marksadegi.com/MarkSadegi%7CRésumé.pdf
+      url: http://www.marksadegi.com/MarkSadegiRésumé.pdf
+    - network: Download
+      username: Download Word
+      url: http://www.marksadegi.com/MarkSadegiRésumé.docx
 work:
   - company: Forcefield Inc.
     position: Sr. Software Engineer
     website: https://forcefield.me
-    startDate: '2014-09-01'
+    startDate: '2015-09-01'
     endDate: ''
     summary: ''
     highlights:
@@ -40,7 +43,7 @@ work:
     position: Sr. Software Engineer
     website: http://hallmark.com/
     startDate: '2015-14-04'
-    endDate: '2015-29­-08­'
+    endDate: '2015-04-08­'
     summary: ''
     highlights:
       - 'Developed features for Hallmarks new Print on Demand product'
@@ -86,6 +89,7 @@ skills:
       - API Developement
       - Ruby
       - Ruby On Rails
+      - Sidekiq
       - Reactjs
       - Elixir
       - Phoenix Framework
@@ -104,20 +108,8 @@ internships:
     startDate: "1995-05-14"
     endDate: "1995-08-14"
     website: "https://www.house.gov"
-# volunteer:
-#   - organization: "CoderDojo"
-#     position: "Teacher"
-#     website: "https://coderdojo.com/"
-#     startDate: "2012-01-01"
-#     endDate: "2013-01-01"
-#     summary: "Global movement of free coding clubs for young people."
-#     highlights:
-#       - "Awarded 'Teacher of the Month'"
 interests:
   - name: Guitar, Music Production, Programming Languages, Hiking, Camping, Long-distance Running & Poker. In that order 🤓
     keywords: []
 references:
   - name: Available upon request.
-  # reference: ''
-# Internship
-# U.S. House of Representatives – Rayburn House 1995 Office Building Website • Interned for Congressman Harris Fawell
